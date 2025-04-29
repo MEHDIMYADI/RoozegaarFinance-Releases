@@ -50,7 +50,7 @@ With an intuitive design and powerful features, you can fully manage your busine
   Quickly generate sample data for testing purposes.
 
 ## Download
-You can download the compiled versions from the [Releases](https://github.com/MEHDIMYADI/RoozegaarCalendar-Releases/releases) section.
+You can download the compiled versions from the [Releases](https://github.com/MEHDIMYADI/RoozegaarFinance-Releases/releases) section.
 
 ## License
 This software is proprietary. The source code is not publicly available.
@@ -109,6 +109,17 @@ Visit [www.roozegaar.ir](https://www.roozegaar.ir) for more details.
 
 - **تولید داده‌های آزمایشی**  
   برای تست سریع و بدون وارد کردن داده واقعی.
+
+  ## دانلود
+نسخه‌های کامپایل شده را از [قسمت منتشر شده‌ها](https://github.com/MEHDIMYADI/RoozegaarFinance-Releases/releases) دانلود کنید.
+
+## مجوز (لایسنس)
+این نرمافزار محدود و مخصوص است و کد منبع عمومی نمی‌شود.
+
+## وبسایت
+[روزگار](https://www.roozegaar.ir)
+
+## اسکرین‌شات‌ها
 
 | تقویم | رویدادهای شخصی | مبدل تاریخ/زمان | ایران من |
 |---------|---------|---------|---------|
