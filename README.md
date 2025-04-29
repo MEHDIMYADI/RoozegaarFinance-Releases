@@ -39,7 +39,7 @@ You can download the compiled versions from the [Releases](https://github.com/ME
 
 ## License
 
-**Freeware License – Roozegaar Calendar**  
+**Freeware License – Roozegaar Finance Platform**  
 Copyright © 2025 **MEHDIMYADI**  
 All rights reserved.
 
@@ -106,7 +106,7 @@ Visit [www.roozegaar.ir](https://www.roozegaar.ir) for more details.
 
 ## مجوز استفاده
 
-**مجوز نرم‌افزار رایگان – تقویم روزگار**  
+**مجوز نرم‌افزار رایگان – سامانه مالی روزگار**  
 کپی‌رایت © ۲۰۲۵ **MEHDIMYADI**  
 کلیه حقوق محفوظ است.
 
