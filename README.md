@@ -10,6 +10,11 @@
 
 ---
 
+| [License](#License) | [مجوز استفاده](#مجوز-استفاده) |
+|---------------------|------------------------------|
+
+---
+
 <details open>
   <summary>🌐 English</summary>
 
@@ -81,7 +86,7 @@ Visit [www.roozegaar.ir](https://www.roozegaar.ir) for more details.
 
 ---
 
-<details>
+<details open>
   <summary>فارسی 🇮🇷</summary>
 
 # سامانه مالی روزگار
