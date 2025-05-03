@@ -1,7 +1,8 @@
 <div align="center">
   <h1>Roozegaar Finance Platform</h1>
+  <p>Comprehensive Financial Management and Accounting Software For Windows | نرم‌افزار جامع مدیریت مالی و حسابداری برای ویندوز<</p>
 </div>
-
+<br>
 <div align="center" style="margin-top: 20px;">
   <a href="#" style="pointer-events: none;"><img src="https://img.shields.io/badge/Platform-Windows-blue?style=for-the-badge&logo=windows" alt="Platform"></a>
   <a href="#" style="pointer-events: none;"><img src="https://img.shields.io/badge/Version-1.0.0.0-green?style=for-the-badge" alt="Version"></a>
@@ -164,4 +165,7 @@ Visit [www.roozegaar.ir](https://www.roozegaar.ir) for more details.
 
 <div align="center">
   <strong>This project is carefully maintained and continuously improved with love by [@MEHDIMYADI].</strong>
+      <br>
+  <a href="https://www.roozegaar.ir">Official Website</a> | 
+  <a href="https://github.com/MEHDIMYADI/RoozegaarFinance-Releases/issues">Report a Issue</a>
 </div>
