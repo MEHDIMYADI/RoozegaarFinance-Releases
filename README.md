@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Roozegaar Finance Platform</h1>
-  <p>Comprehensive Financial Management and Accounting Software For Windows | نرم‌افزار جامع مدیریت مالی و حسابداری برای ویندوز<</p>
+  <p>Comprehensive Financial Management and Accounting Software For Windows | نرم‌افزار جامع مدیریت مالی و حسابداری برای ویندوز</p>
 </div>
 <br>
 <div align="center" style="margin-top: 20px;">
